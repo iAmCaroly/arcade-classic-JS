@@ -5,7 +5,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📋activity goals
+📋activity goals
 - Display, position, and move filled shapes for retro and prototype gameplay;
 - Move a ball around your game space such that it bounces off boundaries;
 - Handle real-time mouse input;

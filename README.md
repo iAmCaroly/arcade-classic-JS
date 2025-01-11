@@ -22,4 +22,4 @@
 
 This is how it looks!
 
-![mp4](/img/img-arcadegame.mp4)
+![gif](/img/gif-arcadegame.gif)
